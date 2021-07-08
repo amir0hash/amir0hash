@@ -5,6 +5,8 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amir0hash)  
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCKkIXvHaJVbkp5g8iq52D9A)  
+
 ![Profile views](https://gpvc.arturio.dev/amir0hash)  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amir0hash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/amir0hash/)  
