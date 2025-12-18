@@ -5,6 +5,6 @@
 * 🧠 Object Detection • Segmentation • Tracking
 * ⚙️ PyTorch • OpenCV • NumPy
 * 🚀 Real-time & optimized models
-* 🐧 Linux • Git
+* 🐧 Arch • Vim • Docker
 
 📫 **email:** amirbabaei470@gmail.com
